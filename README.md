@@ -3,3 +3,5 @@ The algorithm is sued to rank we pages on the basis of the links attached to eac
 
 1. Run `pip install -r requirement.txt`
 2. Run PageRank.py and you can change the transition matrix in the driver code
+
+There's also a Jupyter Notebook in the repository as an example of the PageRank algorithm implementation.
